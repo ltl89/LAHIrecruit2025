@@ -11,7 +11,7 @@ Pneumonia is an infection that inflames the air sacs of the lungs.
 Clinical teams often combine **vital-sign red flags** with **X-ray cues** to decide whether to start treatment quickly.
 
 <details>
-<summary>Discreet hints (feel free to ignore)</summary>
+<summary>Hints</summary>
 
 * **Vitals that may raise suspicion:**  
   * Abnormal body temperature
