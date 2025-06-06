@@ -52,7 +52,7 @@ An environment variable **`AI_API_KEY`** is already set if you’d like to call 
 
 ## 5. Submission
 
-* Push commits to this repo **or** send us your edited `starter.ipynb`.
+* Push commits to this repo **or** show your results on screen for the edited `starter.ipynb`.
 * Please screen-share at all times.
 
 Good luck—have fun, and show us how you tackle a brand-new problem!
